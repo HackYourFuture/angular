@@ -5,7 +5,7 @@
 ## Reading
 Learning Angular means learning to build [web applications like these](http://angularexpo.com/). Many companies use Angular, so learning it might give us some job opportunities!
 
-For lesson 1, we're going to study every bit of this code snippet.
+For lesson 1, we're going to study every bit of this code snippet. 
 
 ```
 import { Component } from '@angular/core';
@@ -17,13 +17,15 @@ import { Component } from '@angular/core';
 export class AppComponent { name = 'Angular'; }
 ```
 
-### JavaScript is slowly implemented
+To understand this code snippet, we'll have to start by looking at two JavaScript supersets: ES6 and TypeScript. When we understand this, we can start looking at Angular itself and make our first application.
+
+### Line 1: JavaScript is slowly implemented
 The first line is something we probably haven't seen before: the `import` statement.
 ```
 import { Component } from '@angular/core';
 ```
 
-Checkout the "Browser compatibility" in the [MDN reference on Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import). What do you see? Other than Microsoft Edge, no browser currently supports 'import'. This is one of the biggest challenges of writing JavaScript (or HTML/CSS): making sure that everything we create is supported in every major browser, so that anyone loading our code in their browser can use it.
+Checkout the Browser compatibility table in [this MDN reference on import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import). What do you see? Other than Microsoft Edge, no browser currently supports the use of `import`. Here we see one of the biggest challenges of writing JavaScript (or HTML/CSS) for the web: making sure that everything we create is supported in every major browser, so that anyone loading our code in their browser can use it.
 
 Browsers are programs made by different companies. Together they agree on *the* standard of JavaScript. This is currently ES5. `import` and [many other awesome features](http://es6-features.org/) is part of a newer standard called ES6 (officially called ES2015). ES6 is "already" finished today, but it will take time (we don't know when) before all companies have implemented ES6 in their browsers. And by the time ES6 is implemented across the board, ES7 will be out with useful features.
 
@@ -50,6 +52,12 @@ Then, we also need to use a bundler. Why and how will be explained in the tutori
 > Tutorial: [using Webpack to bundle](tutorialBundling.md) _estimated time: 2-4 hours_
 
 _Have any issues with these articles? Share your problem on the Slack channel. We can always improve the course material, but need your feedback!_
+
+TODO: Work in progres...
+
+TODO: Tutorial on TypeScript transpiler will follow (Daan, 15/02/2017)
+
+> Tutorial: TODO
 
 ### Reflective questions for Class 1:
 - If everything we write in ES6 can be converted to "old" JavaScript, what does that tell us about ES6?
