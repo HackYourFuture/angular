@@ -1,20 +1,22 @@
+> This will be the first time we teach Angular. Please help us improve and share your feedback!
+
 # HackYourFuture - Angular
 Angular, aah, who doesn't love Angular...? What do you mean checkout react? Oh React! Go back to your Wall!
 
 Or so it goes.
 
-Hi! Welcome to the Angular module. Angular is a super-modern framework that will help us make fun-to-develop, robust, highly-performant web applications.
+Hi! Welcome to the Angular module. Angular is a super-modern framework that will help us make fun-to-develop, robust, highly-performant web applications. Note: Angular is NOT Angular.JS
 
 ## Planning for Current Class
-Kind notice: each week, students are expected to finish all reading material *before class* so we discuss the topics like a bunch of sophisticated ladies/gentlemen. Assignments/Homework is to be handed in by Wednesday evening, so it can be reviewed Thursday/Friday. 
-
-TBA = To Be Announced = Just Wait or If Wait Long Poke Someone
+Kind notice: each week, students are expected to finish all reading material *before class* so we can discuss the topics like a bunch of sophisticated ladies/gentlemen. Assignments/Homework is to be handed in by Thursday 9AM, so it can be reviewed Thursday/Friday.
 
 | Week | Topic | Read | Homework |
 | ---- | ----- | ---- | -------- |
 | 1. | ES6, TypeScript, Bundling, Transpiling | [Week 1 Reading](week1/README.md) | TBA |
 | 2. | MVC, Angular Components, Template Syntax | TBA | TBA |
 | 3. | Angular Services | TBA | TBA |
+
+TBA = To Be Announced
 
 ## What will we learn?
 - How to use a Transpiler to convert ES6 into browser-safe JavaScript
