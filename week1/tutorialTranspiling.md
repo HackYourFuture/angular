@@ -1,4 +1,4 @@
-# Using the Transpiler: Babel
+# Using a Transpiler: Babel
 In this tutorial we will learn:
 - Install [Babel](https://babeljs.io/)
 - Write valid [ES6](https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/)

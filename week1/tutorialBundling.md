@@ -54,17 +54,23 @@ There is no hard answer to this, but a couple of soft answers:
 ### Splitting up our code.
 We're going to make a very simple application that does some math operations and seperate our concerns in to two files. When a file is dedicated to a specific goal, we can call it a Module, though there is no hard distinction.
 
+Before we continue, study `import` and `export` on MDN.
+
+> Read: [MDN reference on Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) _estimated time: less than 1 hour_
+
+> Read: [MDN reference on Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) _estimated time: less than 1 hour_
+
 Add two files to folder `src/`: `multiply.js` and `subtract.js` with the following content.
 ```
 // src/multiply.js
-function multiply(arg1, arg2) {
+export function multiply(arg1, arg2) {
 	return arg1 * arg2;
 }
 ```
 
 ```
 // src/subtract.js
-function subtract(arg1, arg2) {
+export function subtract(arg1, arg2) {
 	return arg1 - arg2;
 }
 ```
