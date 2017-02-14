@@ -3,14 +3,14 @@ Angular, aah, who doesn't love Angular...? What do you mean checkout react? Oh R
 
 Or so it goes.
 
-Hi! Welcome to the Angular module. Angular is a super-modern framework that will help us make nice-to-develop, robust, highly-performant web applications.
+Hi! Welcome to the Angular module. Angular is a super-modern framework that will help us make fun-to-develop, robust, highly-performant web applications.
 
 ## Planning for Current Class
 Kind notice: each week, students are expected to finish all reading material *before class* so we discuss the topics like a bunch of sophisticated ladies/gentlemen. Assignments/Homework is to be handed in by Wednesday evening, so it can be reviewed Thursday/Friday. 
 
 TBA = To Be Announced = Just Wait or If Wait Long Poke Someone
 Week | Topic | Read | Homework
------|-------|------|-----
+---- | ----- | ---- | --------
 1. | ES6, TypeScript, Bundling, Transpiling | See [week1](week1/README.md) | TBA
 2. | Models, Views, Controllers, Angular Components, Template Syntax | TBA | TBA
 3. | Angular Services | TBA | TBA
