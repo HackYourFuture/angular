@@ -23,19 +23,19 @@ The first line is something we probably haven't seen before: the `import` statem
 import { Component } from '@angular/core';
 ```
 
-Checkout the "Browser compatibility" in the [MDN reference on Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import). What do you see? Other than Microsoft Edge, no browser currently supports 'import'. This is one of the biggest challenges of writing JavaScript (or HTML/CSS): making sure that everything we create is supported in every major browser, so that anyone using our code can use it.
+Checkout the "Browser compatibility" in the [MDN reference on Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import). What do you see? Other than Microsoft Edge, no browser currently supports 'import'. This is one of the biggest challenges of writing JavaScript (or HTML/CSS): making sure that everything we create is supported in every major browser, so that anyone loading our code in their browser can use it.
 
 Browsers are programs made by different companies. Together they agree on *the* standard of JavaScript. This is currently ES5. `import` and [many other awesome features](http://es6-features.org/) is part of a newer standard called ES6 (officially called ES2015). ES6 is "already" finished today, but it will take time (we don't know when) before all companies have implemented ES6 in their browsers. And by the time ES6 is implemented across the board, ES7 will be out with useful features.
 
-> Read (optional): [awesome website covering all ES6 features and how they are converted to ES5](http://es6-features.org/)
+> Read (optional): [awesome website covering all ES6 features and how they are converted to ES5](http://es6-features.org/) _estimated time: as long as you like_
 
 > Read (optional): [ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?](https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/) _estimated time: less than 1 hour_
 
-Programmers like us want to use ES6 today because it makes our code easier to write and to maintain. The `import` statement, for example, is incredibly useful because it allows us to split up our code into smaller files and rely on other people to make code for us (see the above example where we import part of Angular).
+Programmers like us want to use ES6 today because it makes our code easier to write and to maintain. The `import` statement, for example, is incredibly useful. It allows us to split up our code into smaller files and makes it easy to use code others have written. In the above example we import part of Angular and make it ours!
 
-Fortunately we can have the best of both worlds: all of ES6 and even ES7 features _today_ while also making sure that everyone can use our application. Solution: two tools the Transpiler and the Bundler! A transpiler "eats up New JavaScript" and "poops out valid old javascript that any browser can understand". The script being pooped out by the Transpiler and Bundler, let's call it `poop.js` for convenience sake, is what we will put into the browser by using it in our HTML file, just like we have been doing so far.
+Fortunately we can have the best of both worlds: all of ES6 (and even ES7) features _today_ while also making sure that everyone can safely use our applications. Introducing: the Transpiler and the Bundler! In short, a transpiler and bundler "eat up New JavaScript" and "poop out valid old javascript that any browser can understand". The script being pooped out by these two, let's call it `poop.js` for convenience sake, is what we will put into the browser by using it in our HTML file, just like we have been doing so far.
 
-### Our pooper of choice
+### Our poopers of choice
 We'll use Babel. Babel is the most popular transpiler and it runs in Node.js.
 
 > Tutorial: [Get started with Node.js and NPM, make chapters 1-10](https://docs.npmjs.com/getting-started)
@@ -57,9 +57,3 @@ _Have any issues with these articles? Share your problem on the Slack channel. W
 - Why do we use a Bundler?
 - What is Node.js?
 
-### Line 2: @Component
-Most people write their Angular application in TypeScript, and so will we. So far we've learned how to write JavaScript, so we first need a small lesson in TypeScript.
-
-### Getting started with TypeScript
-
-## Exercise - 
