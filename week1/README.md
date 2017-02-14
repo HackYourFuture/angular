@@ -17,13 +17,14 @@ import { Component } from '@angular/core';
 export class AppComponent { name = 'Angular'; }
 ```
 
-### JavaScript is slowly developed
-The first line is something we haven't seen before: the `import` statement.
+### JavaScript is slowly implemented
+The first line is something we probably haven't seen before: the `import` statement.
 ```
 import { Component } from '@angular/core';
 ```
 
 > Read: [MDN reference on Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
 _estimated time: less than 1 hour (didn't take you that much? slack us!)_
 
 What do you see in the last table? Other than Microsoft Edge, no browser currently supports 'import'. This is one of the biggest challenges of writing JavaScript (or HTML/CSS): making sure that everything we create is supported in every major browser, so that anyone using our code can use it.
@@ -31,6 +32,7 @@ What do you see in the last table? Other than Microsoft Edge, no browser current
 Browsers are programs made by different companies. Together they agree on *the* standard of JavaScript. This is currently ES5. `import` is part of a newer standard called 2015. ES2015 is "already" finished today, but it will take time before all companies have implemented ES2015 in their browsers. And by the time ES2015 is implemented, ES7 will already be finished.
 
 > Read (optional): [ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?](https://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/)
+
 _estimated time: less than 1 hour (didn't take you that much? slack us!)_
 
 Programmers like us want to use ES2015 today because it makes our code easier to write and to maintain. The `import` statement, for example, is incredibly useful because it allows us to split up our code into smaller files. 
