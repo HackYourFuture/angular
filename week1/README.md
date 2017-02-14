@@ -56,4 +56,5 @@ _Have any issues with these articles? Share your problem on the Slack channel. W
 - What's the importance of Transpiling code?
 - Why do we use a Bundler?
 - What is Node.js?
+- What is SoC and why is it important?
 
