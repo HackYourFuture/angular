@@ -9,11 +9,11 @@ Hi! Welcome to the Angular module. Angular is a super-modern framework that will
 Kind notice: each week, students are expected to finish all reading material *before class* so we discuss the topics like a bunch of sophisticated ladies/gentlemen. Assignments/Homework is to be handed in by Wednesday evening, so it can be reviewed Thursday/Friday. 
 
 TBA = To Be Announced = Just Wait or If Wait Long Poke Someone
-Week | Topic | Read | Homework
----- | ----- | ---- | --------
-1. | ES6, TypeScript, Bundling, Transpiling | See [week1](week1/README.md) | TBA
-2. | Models, Views, Controllers, Angular Components, Template Syntax | TBA | TBA
-3. | Angular Services | TBA | TBA
+| Week | Topic | Read | Homework |
+| ---- | ----- | ---- | -------- |
+| 1. | ES6, TypeScript, Bundling, Transpiling | See [week1](week1/README.md) | TBA |
+| 2. | Models, Views, Controllers, Angular Components, Template Syntax | TBA | TBA |
+| 3. | Angular Services | TBA | TBA |
 
 ## What will we learn?
 - How to use a Transpiler to convert ES6 into browser-safe JavaScript
