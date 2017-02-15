@@ -69,3 +69,7 @@ _Have any issues with these articles or did you find a better tutorial onlien? S
 - What is a Class and why is it useful?
 - What is TypeScript and why do we use it?
 
+### Additional reading
+Why not to use frameworks (as Michael puts it: stay open to critique on your methods. Keeps you sharp)
+- [Why I hate Frameworks by Bunch of guys](http://discuss.joelonsoftware.com/default.asp?joel.3.219431.12)
+- [Why libraries are better than frameworks, Tom Lokhorst](http://tom.lokhorst.eu/2010/09/why-libraries-are-better-than-frameworks)
