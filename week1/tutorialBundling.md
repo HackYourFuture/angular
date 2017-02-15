@@ -155,9 +155,17 @@ Next, copy and paste `src/index.html` to a new file `dist/index.html` and change
 
 Opening this file in Chrome should leave you with a working file!
 
+Closing note: we now used webpack it's most basic form. But it is much, much more powerful than just this. We can use Webpack also for our HTML and CSS and even images. In our development environment, Webpack can also directly "serve" all separate files to our browsers, so that we don't have to re-bundle everytime we make a change to our code. 
+
 ### Summary
 We started this tutorial with the poop coming out of Babel. This is valid ES5, *except for the import statement*. Because importing modules is like chocolate, so essential, we installed Webpack to do the importing for us. So Webpack eats what eats Babel poops, and Webpack in turn poops out TRULY web-ready ES5 code.
 
 ### Next tutorial
 We now have an annoying issue. If we want to update our ES6 code, we have to run two commands (babel and then webpack) before we can test this in our browser. And then we have to manually copy our HTML file. Fortunately, we can automate this process. We're going build something that does this: every time we save the file, our transpiling + bundling pipeline runs automatically.
+
+### Additional reading
+- [Webpack: Using webpack also for CSS and HTML](https://webpack.github.io/docs/tutorials/getting-started/)
+- [A Beginner’s Guide to Webpack 2 and Module Bundling](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/)
+
+
 

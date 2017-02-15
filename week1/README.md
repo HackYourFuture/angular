@@ -51,13 +51,14 @@ Let's start with a tutorial on how to use Babel to convert ES6+ to ES5.
 Then, we also need to use a bundler. Why and how will be explained in the tutorial.
 > Tutorial: [using Webpack to bundle](tutorialBundling.md) _estimated time: 2-4 hours_
 
-_Have any issues with these articles? Share your problem on the Slack channel. We can always improve the course material, but need your feedback!_
+Before proceeding to TypeScript, let's learn about a feature of ES6: classes
+> Tutorial [ES6 Classes introduction (Dan Wahlin)](https://weblogs.asp.net/dwahlin/getting-started-with-es6-using-classes) _estimated time: 1-4 hours_
+> Tutorial (optional, this is a biggy) [ES6 Classes deep dive (scotch.io)](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) _estimated time: more than 6 hours_
 
-TODO: Work in progres...
+Then, with ES6 classes in the back of our minds
+> Tutorial [Typescript](tutorialTypescript.md) _estimated time: 2-6 hours_
 
-TODO: Tutorial on TypeScript transpiler will follow (Daan, 15/02/2017)
-
-> Tutorial: TODO
+_Have any issues with these articles or did you find a better tutorial onlien? Share your knowledge on the Slack channel!_
 
 ### Reflective questions for Class 1:
 - If everything we write in ES6 can be converted to "old" JavaScript, what does that tell us about ES6?
@@ -65,4 +66,6 @@ TODO: Tutorial on TypeScript transpiler will follow (Daan, 15/02/2017)
 - Why do we use a Bundler?
 - What is Node.js?
 - What is SoC and why is it important?
+- What is a Class and why is it useful?
+- What is TypeScript and why do we use it?
 
