@@ -51,8 +51,9 @@ Let's start with a tutorial on how to use Babel to convert ES6+ to ES5.
 Then, we also need to use a bundler. Why and how will be explained in the tutorial.
 > Tutorial: [using Webpack to bundle](tutorialBundling.md) _estimated time: 2-4 hours_
 
-Before proceeding to TypeScript, let's learn about a feature of ES6: classes
+Before proceeding to TypeScript, let's learn about an ES6 feature that's essential for Angular: classes
 > Tutorial [ES6 Classes introduction (Dan Wahlin)](https://weblogs.asp.net/dwahlin/getting-started-with-es6-using-classes) _estimated time: 1-4 hours_
+
 > Tutorial (optional, this is a biggy) [ES6 Classes deep dive (scotch.io)](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) _estimated time: more than 6 hours_
 
 Then, with ES6 classes in the back of our minds
