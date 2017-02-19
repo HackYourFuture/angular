@@ -1,8 +1,7 @@
-# Angular - Week1
+# Angular - Reading material for week 1
 
 > This is the first time we're teaching this new module. Please help us improve it by providing feedback on Slack.
 
-## Reading
 Learning Angular means learning to build [web applications like these](http://angularexpo.com/). Many companies use Angular, so learning it might give us some job opportunities!
 
 For lesson 1, we're going to study every bit of this code snippet. 
@@ -74,3 +73,5 @@ _Have any issues with these articles or did you find a better tutorial onlien? S
 Why not to use frameworks (as Michael puts it: stay open to critique on your methods. Keeps you sharp)
 - [Why I hate Frameworks by Bunch of guys](http://discuss.joelonsoftware.com/default.asp?joel.3.219431.12)
 - [Why libraries are better than frameworks, Tom Lokhorst](http://tom.lokhorst.eu/2010/09/why-libraries-are-better-than-frameworks)
+
+- [ToddMotto: TypeScript, the missing introduction](https://toddmotto.com/typescript-the-missing-introduction)
