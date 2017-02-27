@@ -4,7 +4,9 @@
 
 We're going to build the same thing as we did last week: a web application that can list a specific resource. This time, we all choose the same resource: users. We are going to store the data in an external service: an API.
 
-Make sure you watch [this video on how to hand in your homework](https://youtu.be/-o0yomUVVpU)
+> Make sure you watch [this video on how to hand in your homework](https://youtu.be/-o0yomUVVpU)
+
+> Make sure you have understand all the reading material for [this week]().
 
 ## Assignment requirements
 Software requirements:
