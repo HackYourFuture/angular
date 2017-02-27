@@ -9,11 +9,27 @@ That means we're going to have, in our application:
  - A View (a HTML template that shows the data to the user and let's the user give input)
  - A Controller (a piece of code that knows what to do with user input and perform some logic)
 
-Some extra info:
-- You can work together (in pairs or even groups) if you want
-
 ## How to hand in the assignment
+<<<<<<< HEAD
 Check [this video](https://youtu.be/-o0yomUVVpU)
+=======
+To streamline the homework process, we've already initiated a repo on github. This is *only* the product of `ng new xxx`. Before cloning, give the `ng new` command a shot. There's nothing to it. Why already make this repo instead of letting everyone do `ng new` and push themselves? Well, we're going to check homework from now on through pull requests. If we all contribute to 1 repo, it's super easy to see exactly what someone did _other than `ng new`_ because `ng new` will create 10.000 lines. And working through 10.000 lines to find 10 that someone made is quite bother.
+
+### Before you start
+1) `cd` to the folder you make all your homework.
+2) Go to [this repo](https://github.com/HackYourFuture/angular-class7)
+3) Click "fork" in the top right, fork it under your personal github account
+4) Clone this new repo to your homework folder on your computer
+5) Run `npm install`
+6) You're good to go!
+
+### When you are done
+1) Commit and Push your changes
+2) Go to your personal fork of the repo in github
+3) Here, it will say "1 commit ahead of hackyourfuture/angular-class7/master". Then it says "create pull request"
+4) Create a pull request
+5) That's it!
+>>>>>>> e2bd0b99c62741b5f6eb78806c791d29fe4595c8
 
 ## Assignment Requirements
 Software requirements:
