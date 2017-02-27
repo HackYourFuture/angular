@@ -17,10 +17,11 @@ In Angular, models are owned and governed by Services
 ### Services
 > Read [Tutorial on Services from Angular guys](https://angular.io/docs/ts/latest/tutorial/toh-pt4.html) _estimated time: 1-2 hours_
 
-Last week, we studied 
+### What is a REST API?
+> Watch [Video on what is a REST API](https://www.youtube.com/watch?v=7YcW25PHnAA) _estimated time: 10 minutes_
 
-
-
+### Using Angular to talk to an HTTP service
+> Read [Tutorial on HTTP from Angular](https://angular.io/docs/ts/latest/tutorial/toh-pt6.html). Skip the step on Simulating the API _estimated time: 2-4 hours_
 
 Read:
 https://angular.io/docs/ts/latest/guide/template-syntax.html
