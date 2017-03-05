@@ -14,7 +14,7 @@ Kind notice: each week, students are expected to finish all reading material *be
 | ---- | ----- | ---- | -------- |
 | 1. | ES6, TypeScript, Bundling, Transpiling | [Week 1 Reading](week1/README.md) | [Week 1 Homework](week1/MAKEME.md) |
 | 2. | MVC, Angular Components, Template Syntax | [Week 2 Reading](week2/README.md) | [Week 2 Homework](week2/MAKEME.md) |
-| 3. | Angular Services | [Week 3 Reading](week3/README.md) | TBA |
+| 3. | Angular Services | [Week 3 Reading](week3/README.md) | [Week 2 Homework](week2/MAKEME.md) |
 
 TBA = To Be Announced
 
