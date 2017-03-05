@@ -12,7 +12,7 @@ Kind notice: each week, students are expected to finish all reading material *be
 
 | Week | Topic | Read | Homework |
 | ---- | ----- | ---- | -------- |
-| 1. | ES6, TypeScript, Bundling, Transpiling, MVC, Components, Template syntax | [Week 1 Reading](week1/README.md) | [Week 1 Homework](week1/MAKEME.md) |
+| 1. | ES6, TypeScript, Bundling, Transpiling, MVC, Angular Components, Angular Template syntax | [Week 1 Reading](week1/README.md) | [Week 1 Homework](week1/MAKEME.md) |
 | 2. | Modules, Services, HTTP | [Week 2 Reading](week2/README.md) | [Week 2 Homework](week2/MAKEME.md) |
 | 3. | Routing, Firebase | [Week 3 Reading](week3/README.md) | [Week 3 Homework](week3/MAKEME.md) |
 
