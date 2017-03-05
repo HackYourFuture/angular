@@ -1,8 +1,8 @@
-# HackYourFuture Angular - Homework week 2
+# HackYourFuture Angular - Homework week 3
 
 > This is the first time we're teaching this new module. Please help us improve it by providing feedback on Slack.
 
-We're going to build the same thing as we did last week: a web application that can list a specific resource. This time, we all choose the same resource: users. We are going to store the data in an external service: an API.
+For this week we will expand our existing application with something essential: routing. Routing means changing the view based on the user's location, expressed in a URL path (`localhost/users/list`).
 
 > Make sure you watch [this video on how to hand in your homework](https://youtu.be/-o0yomUVVpU)
 
@@ -13,16 +13,21 @@ Software requirements:
 - We use at Angular 2 written in TypeScript
 - You may include any other library/package
 
-Functional requirements:
+### Functional requirements:
+(Same as week 2)
 - As a user I want to view my list of users
 - As a user I want to add a new item to my list of users
 - As a user I want to edit existing items in my list of users
 - As a user I want to delete existing items from my list of users
 - As a user I want to be able to refresh the page and not lose my data
 
-Technical requirements:
-- Three specific components: list, create, and post
-- One service that handles the users model and gets the data from the API
+(New week 3)
+- As a user I want to select one user from the list of users and...
+- As a user I want to see a full page user profile when I selected a user
+- As a user I want to reload the browser and still see the same full-page user profile I selected
+
+### Technical requirements:
+- Using Angular Component Router
 - Using HTTP Module
 - Using [this API](https://github.com/HackYourFuture/example-api-express-typescript)
 

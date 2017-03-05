@@ -1,4 +1,4 @@
-# Angular - Reading material for week 1
+# HackYourFuture Angular - Reading material week 1
 
 > This is the first time we're teaching this new module. Please help us improve it by providing feedback on Slack.
 

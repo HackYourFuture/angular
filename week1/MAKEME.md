@@ -1,4 +1,4 @@
-# Angular - Homework for week 1
+# HackYourFuture Angular - Homework week 1
 
 > This is the first time we're teaching this new module. Please help us improve it by providing feedback on Slack.
 
